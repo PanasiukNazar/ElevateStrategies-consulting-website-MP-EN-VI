@@ -253,17 +253,8 @@
     transition: 0.5s;
 }
 
-.service-item:hover {
-    margin-top: -10px;
-    background: var(--primary);
-}
-
 .service-item * {
     transition: 0.5s;
-}
-
-.service-item:hover * {
-    color: var(--light) !important;
 }
 
 /*** Categories & Courses ***/
