@@ -19,6 +19,6 @@ function sendForm() {
         window.location.href = newPath;
     } else {
         document.getElementById('result').textContent =
-            'Nieprawidłowy adres e-mail. Wprowadź prawidłowy adres e-mail.';
+            'Incorrect email address. Enter a valid email address.';
     }
 }
